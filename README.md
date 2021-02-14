@@ -7,3 +7,5 @@
 - Marcar una tarea como terminada
 
 **Si bien las funcionalidades de una todoapp son conocidas, esta todoapp realiza aquellas funcionalidades con gran estilo y elegancia**😁
+
+**Link https://app-todo-cool.netlify.app**
