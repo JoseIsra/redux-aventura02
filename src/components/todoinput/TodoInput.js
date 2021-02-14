@@ -12,6 +12,7 @@ export const TodoInput = () => {
 
 const addToDo =(e)=>{
     e.preventDefault();
+    if(todo == '') return;
     const todoObject = makeNewTodo(todo);
     //dispatch aqui
     dispatch(saveTodo(todoObject));
