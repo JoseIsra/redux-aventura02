@@ -28,9 +28,7 @@ function App() {
             </div>
             <div className="app__rightSide__content">
             {todos?.map(todo => (
-
               <Todo key={todo.id} id={todo.id} task={todo.todo} />
-
             ))}
             </div>
         
